@@ -1,0 +1,184 @@
+{
+  "cities": [
+    {
+      "id": 2793748,
+      "name": "La Bouverie",
+      "country": "BE",
+      "coord": {
+        "lon": 4.36067,
+        "lat": 49.966591
+      }
+    },
+    {
+      "id": 2791745,
+      "name": "Marche-en-Famenne",
+      "country": "BE",
+      "coord": {
+        "lon": 5.33333,
+        "lat": 50.200001
+      }
+    },
+    {
+      "id": 2784211,
+      "name": "Waha",
+      "country": "BE",
+      "coord": {
+        "lon": 5.34174,
+        "lat": 50.209148
+      }
+    },
+    {
+      "id": 2800825,
+      "name": "Bucquoi",
+      "country": "BE",
+      "coord": {
+        "lon": 3.23333,
+        "lat": 50.666672
+      }
+    },
+    {
+      "id": 6957760,
+      "name": "Rivreulle",
+      "country": "BE",
+      "coord": {
+        "lon": 4.11667,
+        "lat": 50.349998
+      }
+    },
+    {
+      "id": 2800377,
+      "name": "Chenois",
+      "country": "BE",
+      "coord": {
+        "lon": 5.54988,
+        "lat": 49.558262
+      }
+    },
+    {
+      "id": 2788449,
+      "name": "Quevaucamps",
+      "country": "BE",
+      "coord": {
+        "lon": 3.26667,
+        "lat": 50.716671
+      }
+    },
+    {
+      "id": 2800866,
+      "name": "Brussels",
+      "country": "BE",
+      "coord": {
+        "lon": 4.34878,
+        "lat": 50.850449
+      }
+    },
+    {
+      "id": 2797714,
+      "name": "Gembloux",
+      "country": "BE",
+      "coord": {
+        "lon": 4.697,
+        "lat": 50.561001
+      }
+    },
+    {
+      "id": 2797233,
+      "name": "Grand-Manil",
+      "country": "BE",
+      "coord": {
+        "lon": 4.67528,
+        "lat": 50.556961
+      }
+    },
+    {
+      "id": 2792552,
+      "name": "Les Tombes",
+      "country": "BE",
+      "coord": {
+        "lon": 5.01211,
+        "lat": 50.42786
+      }
+    },
+    {
+      "id": 3390760,
+      "name": "Recife",
+      "country": "BR",
+      "coord": {
+        "lon": -34.881111,
+        "lat": -8.05389
+      }
+    },
+    {
+      "id": 6955599,
+      "name": "Graças",
+      "country": "BR",
+      "coord": {
+        "lon": -34.899361,
+        "lat": -8.04436
+      }
+    },
+    {
+      "id": 6322621,
+      "name": "Taubaté",
+      "country": "BR",
+      "coord": {
+        "lon": -45.497452,
+        "lat": -23.071581
+      }
+    },
+    {
+      "id": 3446682,
+      "name": "Taubate",
+      "country": "BR",
+      "coord": {
+        "lon": -45.555279,
+        "lat": -23.02639
+      }
+    },
+    {
+      "id": 3453406,
+      "name": "Poa",
+      "country": "BR",
+      "coord": {
+        "lon": -46.344719,
+        "lat": -23.528061
+      }
+    },
+    {
+      "id": 6322846,
+      "name": "Londrina",
+      "country": "BR",
+      "coord": {
+        "lon": -51.087391,
+        "lat": -23.58643
+      }
+    },
+    {
+      "id": 3458449,
+      "name": "Londrina",
+      "country": "BR",
+      "coord": {
+        "lon": -51.162781,
+        "lat": -23.31028
+      }
+    },
+    {
+      "id": 3456205,
+      "name": "Nova Aliança do Ivaí",
+      "country": "BR",
+      "coord": {
+        "lon": -52.60194,
+        "lat": -23.17667
+      }
+    },
+    {
+      "id": 3467688,
+      "name": "Campos Altos",
+      "country": "BR",
+      "coord": {
+        "lon": -46.171391,
+        "lat": -19.69611
+      }
+    }
+  ]
+}
