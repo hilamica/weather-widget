@@ -4,7 +4,9 @@
 
 export const environment = {
   production: false,
-  weatherUrl: 'http://api.openweathermap.org/data/2.5/weather'
+  weatherUrl: 'http://api.openweathermap.org/data/2.5/weather',
+  iconsUrl: 'http://openweathermap.org/img/w'
+  
 };
 
 /*

@@ -10,6 +10,7 @@ interface weatherInfo {
 
 export interface CityInfo {
     id: number;
+    name: string,
     main: {
         humidity: number;
         pressure: number;

@@ -1,6 +1,9 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
+import { AutoCompleteModule } from 'primeng/autocomplete';
+import { ReactiveFormsModule } from '@angular/forms';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 
 import { AppComponent } from './app.component';
@@ -16,7 +19,12 @@ import { SelectedCityComponent } from './shared/components/selected-city/selecte
   ],
   imports: [
     BrowserModule,
-    HttpClientModule
+    HttpClientModule,
+    AutoCompleteModule,
+    ReactiveFormsModule,
+    BrowserAnimationsModule
+
+
   ],
   providers: [weatherService],
   bootstrap: [AppComponent]

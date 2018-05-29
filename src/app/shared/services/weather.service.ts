@@ -24,7 +24,7 @@ export class weatherService {
   }
 
   setSelectedCityId(_city: City): void {
-    this.selectedCity = _city;
+    // this.selectedCity = _city;
     this.selectedCityNameSubject.next(_city);
   }
 
@@ -35,5 +35,9 @@ export class weatherService {
         APPID: this.weatherKey
       }
     });
+  }
+
+  getSelectedWeatherIcon(code: number) {
+    return this.http.get(`${environment.iconsUrl}/${code}.png`);
   }
 }

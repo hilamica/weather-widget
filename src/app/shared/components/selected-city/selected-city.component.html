@@ -1,4 +1,13 @@
-<div *ngIf="cityInfo">
-    <h1>{{cityInfo.weather[0].description}}</h1>
+<div *ngIf="cityInfo" style="border: 1px solid black ; display: flex; flex-direction: column">
+    <h1>{{cityInfo.name}}</h1>
+    <div>
+        <img [src]="icon">
+        <div>{{cityInfo.main.temp}}</div>
+    </div>
+    <div>
+        <span>humidity</span>
+        <span>{{cityInfo.main.humidity}}</span>
+    </div>
+    <div>pressure {{cityInfo.main.pressure}} HPA</div>
+    <div>{{cityInfo.weather[0].description}}</div>
 </div>
-
